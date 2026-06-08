@@ -1,0 +1,52 @@
+[
+  {
+    "instance": "I01",
+    "n": 5,
+    "k": 2,
+    "method": "BranchAndBound",
+    "cost": 286.0216693984269,
+    "time": 0.0002913475036621094,
+    "nodes": 21,
+    "optimal": true
+  },
+  {
+    "instance": "I02",
+    "n": 5,
+    "k": 2,
+    "method": "BranchAndBound",
+    "cost": 286.77558267163226,
+    "time": 0.0002949237823486328,
+    "nodes": 19,
+    "optimal": true
+  },
+  {
+    "instance": "I03",
+    "n": 8,
+    "k": 2,
+    "method": "BranchAndBound",
+    "cost": 348.8578749321399,
+    "time": 0.0010156631469726562,
+    "nodes": 87,
+    "optimal": true
+  },
+  {
+    "instance": "I04",
+    "n": 10,
+    "k": 3,
+    "method": "BranchAndBound",
+    "cost": 446.46712593857353,
+    "time": 0.01493692398071289,
+    "nodes": 1826,
+    "optimal": true
+  },
+  {
+    "instance": "I05",
+    "n": 10,
+    "k": 3,
+    "method": "BranchAndBound",
+    "cost": 450.0725983420798,
+    "time": 0.004215240478515625,
+    "nodes": 272,
+    "optimal": true
+  }
+]
